@@ -35,5 +35,9 @@
   "test": {
     "dataSource": "db",
     "public": true
+  },
+  "BalanceSheet": {
+    "dataSource": "db",
+    "public": true
   }
 }

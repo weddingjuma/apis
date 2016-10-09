@@ -1,0 +1,159 @@
+{
+  "name": "BalanceSheet",
+  "plural": "BalanceSheets",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "CashBalances": {
+      "type": "string",
+      "required": true
+    },
+    "BalancesDuefromBanksandFinancialInstitutions": {
+      "type": "string",
+      "required": true
+    },
+    "KenyaGovernmentSecurities": {
+      "type": "string",
+      "required": true
+    },
+    "InvestmentsSecurities": {
+      "type": "string",
+      "required": true
+    },
+    "OtherInvestments": {
+      "type": "string",
+      "required": true
+    },
+    "GrossLoanPortfolio": {
+      "type": "string",
+      "required": true
+    },
+    "ImpairmentLossAllowance": {
+      "type": "string",
+      "required": true
+    },
+    "TaxRecoverable": {
+      "type": "string",
+      "required": true
+    },
+    "DeferredTaxAssets": {
+      "type": "string",
+      "required": true
+    },
+    "RetirementBenefitAssets": {
+      "type": "string",
+      "required": true
+    },
+    "InvestmentProperties": {
+      "type": "string",
+      "required": true
+    },
+    "PropertyandEquipment": {
+      "type": "string",
+      "required": true
+    },
+    "PrepaidLeaseRentals": {
+      "type": "string",
+      "required": true
+    },
+    "IntangibleAssets": {
+      "type": "string",
+      "required": true
+    },
+    "AccumulatedDepreciationAndAmortisation": {
+      "type": "string",
+      "required": true
+    },
+    "OtherAssets": {
+      "type": "string",
+      "required": true
+    },
+    "DemandDeposits": {
+      "type": "string",
+      "required": true
+    },
+    "ShortTermTimeDeposits": {
+      "type": "string",
+      "required": true
+    },
+    "ShortTermBorrowings": {
+      "type": "string",
+      "required": true
+    },
+    "TaxPayable": {
+      "type": "string",
+      "required": true
+    },
+    "DividendsPayable": {
+      "type": "string",
+      "required": true
+    },
+    "DeferredTaxLiability": {
+      "type": "string",
+      "required": true
+    },
+    "RetirementBenefitsLiability": {
+      "type": "string",
+      "required": true
+    },
+    "LongTermTimeDeposits": {
+      "type": "string",
+      "required": true
+    },
+    "LongTermBorrowings": {
+      "type": "string",
+      "required": true
+    },
+    "OtherLongTermLiabilities": {
+      "type": "string",
+      "required": true
+    },
+    "Paid-UpOrAssignedCapital": {
+      "type": "string",
+      "required": true
+    },
+    "DonatedEquity": {
+      "type": "string",
+      "required": true
+    },
+    "PriorYearRetainedEarnings": {
+      "type": "string",
+      "required": true
+    },
+    "CurrentYearProfits": {
+      "type": "string",
+      "required": true
+    },
+    "RevaluationReserve": {
+      "type": "string",
+      "required": true
+    },
+    "SharePremiumOrDiscount": {
+      "type": "string",
+      "required": true
+    },
+    "ProposedDividends": {
+      "type": "string",
+      "required": true
+    },
+    "AdjustmentstoEquity": {
+      "type": "string",
+      "required": true
+    },
+    "InstitutionName": {
+      "type": "string",
+      "required": true
+    },
+    "ReportingPeriod": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
