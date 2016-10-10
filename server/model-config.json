@@ -75,5 +75,9 @@
   "member": {
     "dataSource": "db",
     "public": true
+  },
+  "picture": {
+    "dataSource": "db",
+    "public": true
   }
 }
