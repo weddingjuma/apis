@@ -55,5 +55,9 @@
   "loan": {
     "dataSource": "db",
     "public": true
+  },
+  "saving": {
+    "dataSource": "db",
+    "public": true
   }
 }
