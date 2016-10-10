@@ -79,5 +79,9 @@
   "picture": {
     "dataSource": "db",
     "public": true
+  },
+  "video": {
+    "dataSource": "db",
+    "public": true
   }
 }
