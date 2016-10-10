@@ -63,5 +63,9 @@
   "insurance": {
     "dataSource": "db",
     "public": true
+  },
+  "fine": {
+    "dataSource": "db",
+    "public": true
   }
 }
