@@ -51,5 +51,9 @@
   "review": {
     "dataSource": "db",
     "public": true
+  },
+  "loan": {
+    "dataSource": "db",
+    "public": true
   }
 }
