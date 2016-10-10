@@ -59,5 +59,9 @@
   "saving": {
     "dataSource": "db",
     "public": true
+  },
+  "insurance": {
+    "dataSource": "db",
+    "public": true
   }
 }
