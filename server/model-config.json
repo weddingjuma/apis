@@ -83,5 +83,9 @@
   "video": {
     "dataSource": "db",
     "public": true
+  },
+  "share": {
+    "dataSource": "db",
+    "public": true
   }
 }
