@@ -1,6 +1,6 @@
 ############################################################
 # Dockerfile to build the Chamarika-accounting microservice container image
-# Based on Ubuntu 14.04
+# Based on strongloop/node:latest
 ############################################################
 
 # Setting The Base Image to Use
